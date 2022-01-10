@@ -1,2 +1,2 @@
 # LI1-Project
-Laboratórios de Informática II Project.
+Laboratórios de Informática I Project.
